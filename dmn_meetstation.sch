@@ -734,7 +734,7 @@ U 1 1 5B8AD13E
 P 6700 950
 F 0 "MH1" H 6700 1150 50  0000 C CNN
 F 1 "MountingHole" H 6700 1075 50  0000 C CNN
-F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965" H 6700 950 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_2.7mm_M2.5" H 6700 950 50  0001 C CNN
 F 3 "" H 6700 950 50  0001 C CNN
 	1    6700 950 
 	1    0    0    -1  
@@ -745,7 +745,7 @@ U 1 1 5B8AD201
 P 6900 950
 F 0 "MH2" H 6900 1150 50  0000 C CNN
 F 1 "MountingHole" H 6900 1075 50  0000 C CNN
-F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965" H 6900 950 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_2.7mm_M2.5" H 6900 950 50  0001 C CNN
 F 3 "" H 6900 950 50  0001 C CNN
 	1    6900 950 
 	1    0    0    -1  
